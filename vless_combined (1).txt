@@ -1,4 +1,4 @@
-# 🌍 Gercog Free WL
+ 🌍 Gercog Free WL
 
 vless://2001daf3-5c56-4bef-8ea6-8dd0493c5a4c@89.125.107.54:2053?type=grpc&headerType=none&security=reality&encryption=none&sni=deepl.com&fp=chrome&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&sid=0123456789abcdef&serviceName=grpc#%F0%9F%87%A6%F0%9F%87%AA%20%20United%20Arab%20Emirates%20%20%5B01%5D%20%20MIFA
 
